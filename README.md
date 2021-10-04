@@ -1,4 +1,5 @@
-Palindrome Birthday!<br><br>
+Palindrome Birthday!
+<hr class="wp-block-separator">
 
 On this website you can check if your birthday is Palindrome.
 
